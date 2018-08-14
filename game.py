@@ -17,3 +17,4 @@ while guess != secret:
             print('too small')
 
 print('GAME OVER')
+print('now update to V2 version')
